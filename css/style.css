@@ -1,13 +1,13 @@
-.d-flex-h-100-text-center-text-bg-dark{
-    height: 100%;
-    margin: 0;
-    background: url('portfolioProjectX/AFTERHR.mp4') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+.d-flex h-100 text-center text-bg-dark {
+        height: 100%;
+        margin: 0;
+        background: url('./AFTERHR.mp4') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
   }
-  
+
 
   .bd-placeholder-img {
     font-size: 1.125rem;
